@@ -1,12 +1,12 @@
-#define BLYNK_TEMPLATE_ID "TMPL36NcGLKCo"
+#define BLYNK_TEMPLATE_ID "UR TEMPLATE ID"
 #define BLYNK_TEMPLATE_NAME "led"
-#define BLYNK_AUTH_TOKEN "YW4SECYMuXz8vKjkzTDXy8jQ72uopFNg"
+#define BLYNK_AUTH_TOKEN "UR TOKEN FORM BLYNK"
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 #include <BlynkApiArduino.h>
 
-char ssid[] = "MSB";
-char pass[] = "onetwothreefour";
+char ssid[] = "WIFI NAME ";
+char pass[] = "WIFI PASSWORD";
 
 #define LED_PIN D2
 
